@@ -1,10 +1,10 @@
 Linux, an open-source operating system, is used for a wide variety of purposes, including as a server operating system, a desktop operating system, and in embedded systems
 Shell scripting is primarily used to automate repetitive system tasks, such as backing up files, monitoring system resources, and managing user accounts
-aws azure google devops docker shell k8s terraform ansible grafana
 Azure is used as a cloud computing platform by Microsoft to offer a wide range of services
 AWS, or Amazon Web Services, is used for a wide variety of cloud computing services
 Google Cloud Platform (GCP) is used for a wide variety of cloud computing services, including infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS)
 Docker is a platform used for building, shipping, and running applications within lightweight, isolated environments called containers
 Grafana is an open-source software primarily used for data visualization and monitoring
 Kubernetes is an open-source container orchestration platform primarily used to automate the deployment, scaling, and management of containerized applications
-Unix
+UNIX
+aws azure google devops docker shell k8s terraform ansible grafana unix
