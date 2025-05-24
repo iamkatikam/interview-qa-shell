@@ -7,5 +7,4 @@ Google Cloud Platform (GCP) is used for a wide variety of cloud computing servic
 Docker is a platform used for building, shipping, and running applications within lightweight, isolated environments called containers
 Grafana is an open-source software primarily used for data visualization and monitoring
 Kubernetes is an open-source container orchestration platform primarily used to automate the deployment, scaling, and management of containerized applications
-Linux is a widely used, robust operating system used in a variety of applications, including web servers, database servers, scientific computing, and embedded systems
-Linux is used in a variety of other computing environments, such as workstations, servers, and networking devices.
+Unix

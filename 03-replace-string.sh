@@ -5,7 +5,7 @@ dir="$PWD"  # Replace with your actual directory
 echo "Current directory: $dir"
 
 # Define the search and replacement strings
-search_string="UNIX"   # Replace with the string you want to find
+search_string="Unix"   # Replace with the string you want to find
 replace_string="Linux"  # Replace with the string you want to replace it with
 
 # Check if the directory exists
@@ -20,4 +20,4 @@ find "$dir" -type f -name "*.txt" | while read file; do
     echo "Updated: $file"
 done
 
-echo "Replacement complete."
+echo "Replacement completed."

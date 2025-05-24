@@ -3,8 +3,8 @@ Shell scripting is primarily used to automate repetitive system tasks, such as b
 aws azure google devops docker shell k8s terraform ansible grafana
 Azure is used as a cloud computing platform by Microsoft to offer a wide range of services
 AWS, or Amazon Web Services, is used for a wide variety of cloud computing services
-Linux is a widely used, robust operating system used in a variety of applications, including web servers, database servers, scientific computing, and embedded systems
-Linux is used in a variety of other computing environments, such as workstations, servers, and networking devices.
+Unix is a widely used, robust operating system used in a variety of applications, including web servers, database servers, scientific computing, and embedded systems
+Unix is used in a variety of other computing environments, such as workstations, servers, and networking devices.
 Google Cloud Platform (GCP) is used for a wide variety of cloud computing services, including infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS)
 Docker is a platform used for building, shipping, and running applications within lightweight, isolated environments called containers
 Grafana is an open-source software primarily used for data visualization and monitoring
