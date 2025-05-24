@@ -6,5 +6,5 @@ Google Cloud Platform (GCP) is used for a wide variety of cloud computing servic
 Docker is a platform used for building, shipping, and running applications within lightweight, isolated environments called containers
 Grafana is an open-source software primarily used for data visualization and monitoring
 Kubernetes is an open-source container orchestration platform primarily used to automate the deployment, scaling, and management of containerized applications
-UNIX
-aws azure google devops docker shell k8s terraform ansible grafana unix
+Unix
+aws azure google devops docker shell k8s terraform ansible grafana Unix
